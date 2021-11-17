@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔭 I’m currently working on Run2Biz as Artificial Intelligence Analyst and Developer.
+## 🔭 I’m currently working on Serasa as Specialist Software Engineer.
 
 ## 🔭 I am enthusiastic about artificial intelligence applications and passionate about developing software, innovation and business models. 
 
