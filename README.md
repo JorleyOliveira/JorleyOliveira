@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔭 I’m currently working on Solfácil as Specialist Backend Engineer.
+## 🔭 I’m currently working on PayPal as Backend Engineer.
 
 ## 🔭 I am enthusiastic about artificial intelligence applications and passionate about developing software, innovation and business models. 
 
